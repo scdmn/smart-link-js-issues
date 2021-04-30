@@ -1,3 +1,3 @@
 # smart-link-js-resp
 
-You can view the framework documents <a href='http://121.40.96.217' target='_blank'/>on this link</a>
+Record your issues here  and You can view the framework documents <a href='http://121.40.96.217' target='_blank'/>on this link</a>
